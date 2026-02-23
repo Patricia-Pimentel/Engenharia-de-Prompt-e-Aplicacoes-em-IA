@@ -1,5 +1,9 @@
 # Engenharia de Prompt e Aplicações em IA
 
+Decolagem imediata
+
+Crie um prompt simples
+
 Crie um uma frase simples sobre Engenharia de Prompt e Aplicações em IA
 
 Chat GPT
