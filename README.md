@@ -1,5 +1,7 @@
 # Engenharia de Prompt e Aplicações em IA
 
+Disciplina do curso e Analise e desenvolvimento de sistemas - 2026_1
+
 Decolagem imediata
 
 Crie um prompt simples
