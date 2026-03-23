@@ -1,12 +1,16 @@
-Comparação de Tecnologias
-Prompt inicial (vago):
-Compare Java e Python.
-Refinamento:
-Compare Java e Python em uma tabela com quatro colunas: paradigma de programação, desempenho, curva de aprendizado e principais aplicações em desenvolvimento de sistemas corporativos.
-Tarefa: Avaliar como o formato solicitado (tabela) facilita a análise.
-Utilizando a Claude.ia:
+# Comparação de Tecnologias
 
-Primeira resposta
+**Prompt inicial (vago):**
+Compare Java e Python.
+
+**Refinamento:**
+Compare Java e Python em uma tabela com quatro colunas: paradigma de programação, desempenho, curva de aprendizado e principais aplicações em desenvolvimento de sistemas corporativos.
+
+**Tarefa:** Avaliar como o formato solicitado (tabela) facilita a análise.
+
+**Utilizando a Claude.ia:**
+
+**Primeira resposta**
 
 ## Java vs Python
 
@@ -87,7 +91,7 @@ Resposta com prompt
 
 **Em resumo:** escolha **Python** para agilidade, ciência de dados e projetos menores. Escolha **Java** para sistemas de grande escala, alta performance e ambientes corporativos exigentes. Muitos desenvolvedores experientes dominam as duas.
 
-Segunda resposta:
+**Segunda resposta:**
 
 | Critério | Java | Python |
 |---|---|---|
@@ -96,7 +100,7 @@ Segunda resposta:
 | **Curva de aprendizado** | Curva íngreme para iniciantes: requer compreensão de classes, tipos, interfaces e do ecossistema JVM antes de ser produtivo. Verbosidade do código é barreira inicial, mas favorece clareza em projetos grandes e equipes numerosas. | Sintaxe enxuta e legível, próxima do pseudocódigo. Uma das linguagens mais acessíveis para novos desenvolvedores. Entrar em produção é mais rápido, embora dominar boas práticas em projetos de larga escala exija experiência adicional. |
 | **Principais aplicações corporativas** | Backends de alta escala (Spring Boot, Quarkus), sistemas bancários e financeiros, ERPs, microsserviços, aplicações Android nativas, plataformas de processamento de eventos em tempo real (Kafka, Flink). Escolha predominante em ambientes enterprise com foco em governança e escalabilidade. | Automação, scripts de integração e DevOps, APIs REST rápidas (FastAPI, Django), pipelines de dados e ETL, machine learning e IA corporativa (TensorFlow, PyTorch, scikit-learn), análise de dados e relatórios. Dominante em ciência de dados e em times de engenharia que priorizam velocidade de desenvolvimento. |
 
-Tarefa: Avaliar como o formato solicitado (tabela) facilita a análise.
+**Tarefa: Avaliar como o formato solicitado (tabela) facilita a análise.**
 
 A tabela faclita a analise pois organiza o conteudo de maneira mais simples e direta.
 Quando é feito um prompt muito vago a IA pode tratar muitos assuntos desnecessarios, criando textos longos e repetitivos.
