@@ -111,4 +111,5 @@ Quando é feito um prompt muito vago a IA pode tratar muitos assuntos desnecessa
 
 
 [comparacao_java_python-Prompt vago.pdf](https://github.com/user-attachments/files/26197371/comparacao_java_python-Prompt.vago.pdf)
+
 [comparacao_java_python-Prompt Estruturado.pdf](https://github.com/user-attachments/files/26197376/comparacao_java_python-Prompt.Estruturado.pdf)
