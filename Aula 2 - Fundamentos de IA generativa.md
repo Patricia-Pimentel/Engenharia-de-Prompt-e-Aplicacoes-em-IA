@@ -41,7 +41,7 @@ Se você usa a internet, você interage com Python diariamente:
 ```python
 print("Olá, Mundo! Este é o Python.")
 
-
+```
 # Prompt estruturado: Atue como professor. Explique Python para um iniciante usando analogias simples em 2 parágrafos.
 
 # Entendendo o Python: Uma Analogia Simples
@@ -61,4 +61,3 @@ Para entender o funcionamento interno, imagine uma **cozinha bem organizada**:
 # Analise crítica
 
 O prompt estruturado trouxe uma resposta mais rápida e organizada, que não fugia do asunto e explicava de maneira mais simples
-
