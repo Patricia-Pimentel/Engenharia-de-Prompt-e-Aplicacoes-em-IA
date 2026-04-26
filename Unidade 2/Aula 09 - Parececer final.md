@@ -1,4 +1,4 @@
-# Parecer de Conclusão: Unidade 2 - IA no Desenvolvimento de Software
+# Parecer de Conclusão: Unidade 2 - Programação Assistida e Automação
 
 ## 1. Visão Geral
 A Unidade 2 consolidou o entendimento de que a Inteligência Artificial (IA) atua como uma ferramenta versátil e poderosa no suporte à programação. Sua aplicação abrange desde a criação inicial de scripts até a melhoria de sistemas legados, independentemente da linguagem de programação utilizada.
