@@ -6,7 +6,8 @@ A Unidade 2 consolidou o entendimento de que a Inteligência Artificial (IA) atu
 ## 2. Principais Aprendizados
 
 * **Versatilidade de Linguagem:** A IA demonstra capacidade de auxiliar no desenvolvimento em múltiplas sintaxes, facilitando a transição entre diferentes stacks tecnológicas.
-* **Geração e Refatoração:** * **Criação:** Geração de blocos de código funcionais a partir de instruções textuais.
+* **Geração e Refatoração:**
+    * **Criação:** Geração de blocos de código funcionais a partir de instruções textuais.
     * **Refatoração:** Otimização de códigos existentes para melhorar a legibilidade, performance e manutenção.
 * **Engenharia de Prompt:** A qualidade da resposta está diretamente ligada à clareza da instrução. Prompts detalhados e explicativos são essenciais para filtrar ruídos e evitar a geração de trechos de código redundantes ou desnecessários.
 
